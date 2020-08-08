@@ -1,0 +1,2 @@
+# UsingStrings
+MAD
